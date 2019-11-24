@@ -1,5 +1,4 @@
 # mdp-ML
-# 7641 - schen726
 ## Project 4
 ### Running project 4 code
 0. Go to below github url and clone project 4 source code
